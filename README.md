@@ -1,6 +1,6 @@
-![Fruit Ninja - init2025 edition](assets/icon.png "Fruit Ninja - init2025 edition")
+![Fruit Ninja - narva2026 edition](assets/icon.png "Fruit Ninja - init2025 edition")
 
-# Fruit Ninja - init2025 edition
+# Fruit Ninja - narva2026 edition
 
 - [Abivahendid](#abivahendid)
 - [Sissejuhatus](#sissejuhatus)
